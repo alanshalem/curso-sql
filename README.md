@@ -2,9 +2,8 @@
 
 ---
 
-**ALUMNO:** ALAN SHALEM  
-**DNI:** 42025710  
-**CURSO:** SQL  
+**ALUMNO:** ALAN SHALEM
+**CURSO:** SQL
 **COMISION:** 43425
 
 ---
